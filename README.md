@@ -1,2 +1,2 @@
 # hello-world
-repopsitório inicial somente para teste
+repositório inicial somente para teste
